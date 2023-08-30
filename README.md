@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Christopher Wahlström
-- 👀 I’m interested in Frontend Development , running the MTB in the forrest , be with my family and friends  
-- 🌱 I’m currently in school ,  my last year to become a Frontend Developer..
-- 💞️ I’m looking to collaborate on project and future job opportunities.
+- 👀 I’m interested in Frontend Development , MTB in the forrest , be with my family and friends  
+- 🌱 I’m currently a Frontend Developer..
+- 💞️ I’m looking for future job opportunities.
 - 📫 How to reach me wahlstromchristopher@gmail.com
 
 <!---
